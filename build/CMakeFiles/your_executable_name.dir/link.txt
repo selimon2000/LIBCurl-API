@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/your_executable_name.dir/test.cpp.o -o your_executable_name  /usr/lib/x86_64-linux-gnu/libcurl.so -ljsoncpp 

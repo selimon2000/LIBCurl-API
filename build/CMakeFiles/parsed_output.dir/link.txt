@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/parsed_output.dir/get_request_parsed.cpp.o -o parsed_output  /usr/lib/x86_64-linux-gnu/libcurl.so -ljsoncpp 

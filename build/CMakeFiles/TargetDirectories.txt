@@ -1,0 +1,4 @@
+/home/selimon/Desktop/LibCurl API/build/CMakeFiles/string_output.dir
+/home/selimon/Desktop/LibCurl API/build/CMakeFiles/parsed_output.dir
+/home/selimon/Desktop/LibCurl API/build/CMakeFiles/edit_cache.dir
+/home/selimon/Desktop/LibCurl API/build/CMakeFiles/rebuild_cache.dir

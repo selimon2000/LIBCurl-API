@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/selimon/Desktop/LibCurl API/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/string_output.dir/get_request_string.cpp.o -c \"/home/selimon/Desktop/LibCurl API/get_request_string.cpp\"",
+  "file": "/home/selimon/Desktop/LibCurl API/get_request_string.cpp",
+  "output": "CMakeFiles/string_output.dir/get_request_string.cpp.o"
+},
+{
+  "directory": "/home/selimon/Desktop/LibCurl API/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/parsed_output.dir/get_request_parsed.cpp.o -c \"/home/selimon/Desktop/LibCurl API/get_request_parsed.cpp\"",
+  "file": "/home/selimon/Desktop/LibCurl API/get_request_parsed.cpp",
+  "output": "CMakeFiles/parsed_output.dir/get_request_parsed.cpp.o"
+}
+]
